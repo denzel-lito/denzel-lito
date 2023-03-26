@@ -31,7 +31,7 @@ Now I am actively learning NLP.<br>I am looking for a job in this area.<br><br>H
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 
-![alt text](https://www.meme-arsenal.com/memes/ec08323c6ad117a063ca6b24e5c31456.jpg)
+![alt text](https://cbgd.ask.fm/119/b49ee/510e/4c89/ab6a/933c13e56bf1/original/827012.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=denzel-lito&icon=0&color=0)](https://visitcount.itsvg.in)
