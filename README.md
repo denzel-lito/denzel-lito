@@ -13,7 +13,7 @@ Now I am actively learning NLP.<br>I am looking for a job in this area.<br><br>H
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://yandex.ru/images/search?text=мем%20data%20science&from=tabbar&pos=14&img_url=http%3A%2F%2Fmeme-arsenal.com%2Fmemes%2Fec08323c6ad117a063ca6b24e5c31456.jpg&rpt=simage&lr=29392)" width="512px"/>
+![alt text](https://yandex.ru/images/search?text=мем%20data%20science&from=tabbar&pos=14&img_url=http%3A%2F%2Fmeme-arsenal.com%2Fmemes%2Fec08323c6ad117a063ca6b24e5c31456.jpg&rpt=simage&lr=29392)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=denzel-lito&icon=0&color=0)](https://visitcount.itsvg.in)
