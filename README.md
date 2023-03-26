@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 😈 About Me:
 Now I am actively learning NLP.<br>I am looking for a job in this area.<br><br>Hobbies: climbing (bouldering), moto and snowboarding.
 
 
