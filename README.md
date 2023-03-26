@@ -17,6 +17,7 @@ Now I am actively learning NLP.<br>I am looking for a job in this area.<br><br>H
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-%23F7931E.svg?style=for-the-badge&logo=Teradata&logoColor=white)
+![Greenplum](https://img.shields.io/badge/Greenplum-%236DB33F.svg?style=for-the-badge&logo=Greenplum&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
