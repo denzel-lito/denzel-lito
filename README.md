@@ -26,10 +26,6 @@ Now I am actively learning NLP.<br>I am looking for a job in this area.<br><br>H
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=denzel-lito&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denzel-lito&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
