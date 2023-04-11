@@ -25,12 +25,12 @@ Now I am actively learning NLP.<br>I am looking for a job in this area.<br><br>H
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denzel-lito&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-lito&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 
+##
 ![my image](https://i.pinimg.com/736x/71/cd/da/71cdda3541d2c2b3ff5e4d5c046a663a.jpg)
 
 ---
